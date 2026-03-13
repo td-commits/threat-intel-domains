@@ -840,3 +840,6 @@ alphaumi.com
 techafresh.com
 3-get.njalla.fo
 steamcommunity.com
+pcapp.store
+ev.pcapp.store
+repcdn.pcapp.store
