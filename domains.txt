@@ -843,3 +843,4 @@ steamcommunity.com
 pcapp.store
 ev.pcapp.store
 repcdn.pcapp.store
+MEGA.nz
