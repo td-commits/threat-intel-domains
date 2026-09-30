@@ -847,3 +847,4 @@ steamcommunity.com
 360.com
 samara-news.net
 gateway.storjshare.io
+vpn-api.proton.me
